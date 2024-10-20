@@ -1,4 +1,4 @@
-# Backend SaheLance
+# SaheLance Backend 
 
 SaheLance is a freelance platform for a startup that allows users to offer or to request services in return for money. Look [here](https://github.com/youcef-gaga/Frontend-for-Freelance-Platform---Sahelance) for the front-end project.
 

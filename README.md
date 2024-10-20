@@ -1,8 +1,9 @@
 # MicroJobs
 
-Micro Jobs is a small platform that allows users to offer or to request services in return for money. Look [here](https://github.com/goto-eof/micro-jobs-client) for the front-end project.
+Micro Jobs is a small platform that allows users to offer or to request services in return for money. Look [here](https://github.com/goto-eof/sahelance-client) for the front-end project.
 
 # Technologies
+
 - Java 8+;
 - Spring Boot (... +Spring Security);
 - ModelMapper;
@@ -16,6 +17,7 @@ Micro Jobs is a small platform that allows users to offer or to request services
 - Git.
 
 # Features
+
 - user login (JWT);
 - user logout;
 - user registration;
@@ -33,21 +35,28 @@ Micro Jobs is a small platform that allows users to offer or to request services
 - ...wip.
 
 # Architecture
-![Database](micro-jobs.png)
+
+![Database](sahelance.png)
 
 # Job Instance status flow
+
 ![Database](JobStatusFlow.png)
 
 # Run it
+
 ### Download and run docker database image
+
 ```
 sudo docker-compose up -d
 java -jar build/libs/micro-jobs-server-1.0-SNAPSHOT.jar
 ```
+
 ### Run as spring boot project from your IDE (IntelliJ)
+
 The server will be reachable on port 8080
 
 # Default username and password
+
 ```
 username: admin
 password: Micr@J@bs

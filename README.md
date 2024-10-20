@@ -1,6 +1,6 @@
 # MicroJobs
 
-Micro Jobs is a small platform that allows users to offer or to request services in return for money. Look [here](https://github.com/goto-eof/sahelance-client) for the front-end project.
+Micro Jobs is a freelance platform that allows users to offer or to request services in return for money. Look [here](https://github.com/) for the front-end project.
 
 # Technologies
 
@@ -36,18 +36,21 @@ Micro Jobs is a small platform that allows users to offer or to request services
 
 # Architecture
 
-![Database](sahelance.png)
+![Database](image_2.png)
 
 # Job Instance status flow
 
-![Database](JobStatusFlow.png)
+![Database](image_1.png)
 
 # Run it
 
 ### Download and run docker database image
 
-```
+```bash
 sudo docker-compose up -d
+```
+or
+```bash
 java -jar build/libs/micro-jobs-server-1.0-SNAPSHOT.jar
 ```
 
@@ -62,4 +65,4 @@ username: admin
 password: Micr@J@bs
 ```
 
-If you want to get some information, feel free to [contact me](http://andre-i.eu/#contactme).
+If you want to get some information, feel free to [contact me](https://www.linkedin.com/in/youcef-bekhouche-3a438032a/).

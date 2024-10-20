@@ -1,6 +1,6 @@
-# MicroJobs
+# Backend SaheLance
 
-Micro Jobs is a freelance platform that allows users to offer or to request services in return for money. Look [here](https://github.com/) for the front-end project.
+SaheLance is a freelance platform for a startup that allows users to offer or to request services in return for money. Look [here](https://github.com/youcef-gaga/Frontend-for-Freelance-Platform---Sahelance) for the front-end project.
 
 # Technologies
 
